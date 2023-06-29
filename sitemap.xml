@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://wha1e.cn/categories/index.html</loc>
+    
+    <lastmod>2023-06-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wha1e.cn/about/index.html</loc>
+    
+    <lastmod>2023-06-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wha1e.cn/2023/06/29/%E5%85%B3%E4%BA%8E%E6%88%91%E8%BF%99%E4%B8%A4%E5%B9%B4%E5%8D%8A%E7%9A%84%E6%80%BB%E7%BB%93/</loc>
+    
+    <lastmod>2023-06-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wha1e.cn/2023/05/09/hello-world/</loc>
+    
+    <lastmod>2023-05-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wha1e.cn/link/index.html</loc>
+    
+    <lastmod>2023-05-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wha1e.cn/tags/index.html</loc>
+    
+    <lastmod>2023-05-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  <url>
+    <loc>https://wha1e.cn/</loc>
+    <lastmod>2023-06-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>https://wha1e.cn/tags/%E8%AE%B0%E5%BD%95%E6%88%90%E9%95%BF/</loc>
+    <lastmod>2023-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+
+  
+  <url>
+    <loc>https://wha1e.cn/categories/%E7%94%9F%E6%B4%BB/</loc>
+    <lastmod>2023-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+</urlset>

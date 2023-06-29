@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>wha1e</title>
+  
+  <subtitle>随手记</subtitle>
+  <link href="https://wha1e.cn/atom.xml" rel="self"/>
+  
+  <link href="https://wha1e.cn/"/>
+  <updated>2023-06-29T00:15:32.345Z</updated>
+  <id>https://wha1e.cn/</id>
+  
+  <author>
+    <name>wha1e</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>关于我这两年半的总结</title>
+    <link href="https://wha1e.cn/2023/06/29/%E5%85%B3%E4%BA%8E%E6%88%91%E8%BF%99%E4%B8%A4%E5%B9%B4%E5%8D%8A%E7%9A%84%E6%80%BB%E7%BB%93/"/>
+    <id>https://wha1e.cn/2023/06/29/%E5%85%B3%E4%BA%8E%E6%88%91%E8%BF%99%E4%B8%A4%E5%B9%B4%E5%8D%8A%E7%9A%84%E6%80%BB%E7%BB%93/</id>
+    <published>2023-06-29T00:14:34.700Z</published>
+    <updated>2023-06-29T00:15:32.345Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="关于我这两年半的总结"><a href="#关于我这两年半的总结" class="headerlink" title="关于我这两年半的总结"></a>关于我这两年半的总结</h1><p>​</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;关于我这两年半的总结&quot;&gt;&lt;a href=&quot;#关于我这两年半的总结&quot; class=&quot;headerlink&quot; title=&quot;关于我这两年半的总结&quot;&gt;&lt;/a&gt;关于我这两年半的总结&lt;/h1&gt;&lt;p&gt;​	&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="生活" scheme="https://wha1e.cn/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+    <category term="记录成长" scheme="https://wha1e.cn/tags/%E8%AE%B0%E5%BD%95%E6%88%90%E9%95%BF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://wha1e.cn/2023/05/09/hello-world/"/>
+    <id>https://wha1e.cn/2023/05/09/hello-world/</id>
+    <published>2023-05-09T03:08:32.458Z</published>
+    <updated>2023-05-09T14:27:07.642Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="关于我第N个博客"><a href="#关于我第N个博客" class="headerlink" title="关于我第N个博客"></a>关于我第N个博客</h1><p>​好久不见这里是wha1e，自从21年3月份搭建起第一个博客至今已经有两年多了，中间一直断断续续零零散散记录一些东西，也体验了很多种搭建网站博客的方式，自己的博客一直处于关站又开站的状态，虽然坚持每月在CSDN上写文章但限制太多。一个月前因为随便使用别人编写的主题被人传🐎关站之后思考许久，最终还是决定使用GitHub+hexo静态页面的方式继续记录一些我的零散笔记。</p><p>​精力有限，这个博客应该是我大学生涯最后一个博客了。</p><p><img src="https://pic2.imgdb.cn/item/6383872216f2c2beb15fabd9.png"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;关于我第N个博客&quot;&gt;&lt;a href=&quot;#关于我第N个博客&quot; class=&quot;headerlink&quot; title=&quot;关于我第N个博客&quot;&gt;&lt;/a&gt;关于我第N个博客&lt;/h1&gt;&lt;p&gt;​		好久不见这里是wha1e，自从21年3月份搭建起第一个博客至今已经有两年多了，中间一直</summary>
+      
+    
+    
+    
+    <category term="生活" scheme="https://wha1e.cn/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+    <category term="记录成长" scheme="https://wha1e.cn/tags/%E8%AE%B0%E5%BD%95%E6%88%90%E9%95%BF/"/>
+    
+  </entry>
+  
+</feed>
